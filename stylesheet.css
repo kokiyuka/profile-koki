@@ -1,0 +1,58 @@
+.title {
+  color: #02ccba;
+  text-align: center;
+  background-color: #FF0000	;
+  margin:50px;
+  padding: 40px;
+}
+
+h2{
+  color:#FFFF00	;
+  font-size: 30px;
+}
+
+li{
+  list-style: none;
+
+}
+.career{
+
+  background-color: #FF00FF;
+  padding:30px 30px;
+  float: right;
+  border-radius: 5px;
+}
+
+.profile{
+  background-color: red;
+  float: left;
+  width:100%;
+}
+
+ul{
+  float:left;
+}
+
+.yuka{
+  width: 200px;
+  height:200px;
+opacity: 0.3;
+}
+
+.yuka:active{
+  opacity: 1;
+}
+
+header{
+  height:50px;
+  width: 100%;
+  background-color: #FF3399	;
+  position: fixed;
+  top: 0;
+  z-index: 1;
+}
+
+.head{
+  color: white;
+  font-weight: bold;
+}
